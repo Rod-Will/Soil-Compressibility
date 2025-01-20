@@ -123,8 +123,17 @@ This project is licensed under the Creative Commons Zero v1.0 License. See the [
 - Datasets from reliable sources in geotechnical engineering.
 
 ---
+## Acknowledgments
 
+Special thanks to the geotechnical engineering and data science communities for their contributions to soil property research and machine learning innovations.
+
+---
+
+### Contact
+
+For questions, feedback, or contributions, contact [rhudwill@gmail.com].
+
+---
 **Designed by Rod-Will**  
 Empowering innovation in engineering through AI.
-Contact via rhudwill@gmail.com
-
+```
