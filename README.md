@@ -114,7 +114,7 @@ We welcome contributions to this project! To get started:
 
 ## License
 
-This project is licensed under the Creative Commons Zero v1.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 License. See the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) file for details.
 
 ## References
 
